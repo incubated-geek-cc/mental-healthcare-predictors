@@ -93,6 +93,7 @@ more_than_1000,Yes,No,Yes,Yes,Unsure,5,same,Yes,Yes,7,7,No,No,No,No,No,0,0,No,10
 100_to_500,Unsure,No,No,No,Unsure,0,physical,Yes,Yes,5,3,Maybe,No,Maybe,Yes,Yes,0,3,No,8,Maybe,Maybe,2,32,male,30_to_40,USA_KS,USA_KS
 100_to_500,Unsure,No,Unsure,Unsure,Unsure,5,physical,Yes,Maybe,6,5,No,No,No,No,No,0,0,Maybe,7,Maybe,No,4,32,male,30_to_40,USA_NE,USA_NE
 1_to_5,Yes,Yes,No,No,Yes,5,same,No,No,5,8,Yes,Yes,Yes,Yes,Yes,2,3,No,8,Yes,Maybe,2,20,female,10_to_20,USA_NE,USA_NE
+500_to_1000,Unsure,No,Yes,Unsure,Unsure,5,same,Yes,Maybe,6,6,No,No,No,No,No,0,0,No,6,No,No,4,0,male,0_to_10,USA_NE,USA_NE
 26_to_100,Unsure,No,No,No,Unsure,5,physical,Yes,Maybe,7,7,No,No,No,No,No,0,0,No,7,Maybe,Maybe,3,38,male,30_to_40,USA_NE,USA_NE
 6_to_25,Unsure,Yes,No,No,Unsure,3,physical,Maybe,Maybe,8,5,Yes,Yes,Yes,Yes,Unsure,2,3,No,6,No,No,3,31,male,30_to_40,USA_NE,USA_NE
 26_to_100,Yes,Yes,Yes,Yes,Yes,2,mental,No,No,3,1,Yes,Yes,Yes,Yes,Yes,2,2,No,3,Maybe,No,4,26,male,20_to_30,USA_AK,USA_AK
