@@ -1,0 +1,359 @@
+no_employees,benefits,care_options,welfare_program,seek_help,anonymity,leave,mental_health_vs_phys_health,supervisor,coworker,phys_health_importance,mental_health_importance,current_disorder,diagnosed_disorder,past_disorder,treatment,family_history,work_interfere_effective_treatment,work_interfere_non_effective_treatment,ob_consequence,friends_family,phys_health_interview,mental_health_interview,openly_identified,tech_support,age,gender,age_range,location_residence,location_workplace
+More than 1000,Yes,Yes,Yes,Yes,Yes,2,physical,No,No,8,6,Maybe,No,Yes,Yes,Yes,2,3,Yes,3,No,No,No,2,57,female,50_to_60,CAN,CAN
+More than 1000,Yes,Yes,No,Unsure,Unsure,2,physical,No,No,8,3,Yes,Yes,Yes,Yes,Yes,3,4,Maybe,3,Yes,No,No,3,29,male,20_to_30,USA_MA,USA_MA
+6-25,Yes,Yes,No,No,Unsure,4,physical,No,No,3,1,No,No,No,No,Yes,0,0,Maybe,2,No,No,No,3,46,male,40_to_50,USA_FL,USA_FL
+6-25,No,No,No,No,Unsure,3,physical,No,Maybe,8,8,No,No,No,No,No,0,0,Maybe,9,No,No,No,1,34,male,30_to_40,NOR,NOR
+26-100,Yes,Yes,Yes,Yes,Yes,4,same,Yes,Yes,7,5,Yes,Yes,Yes,Yes,Yes,2,3,No,7,Yes,Yes,Yes,4,29,male,20_to_30,USA_TN,USA_TN
+100-500,Yes,Yes,No,Unsure,Unsure,4,same,Yes,Yes,7,8,No,No,Maybe,No,No,0,0,No,8,Yes,Yes,No,3,55,male,50_to_60,USA_SC,USA_SC
+More than 1000,Yes,Yes,No,No,Unsure,0,physical,No,Maybe,4,4,Yes,Yes,Maybe,Yes,No,4,4,Maybe,6,Maybe,No,No,2,29,nonbinary,20_to_30,FIN,FIN
+26-100,No,No,No,No,Unsure,0,physical,No,Maybe,10,8,Yes,Yes,Yes,Yes,Unsure,3,4,No,8,Maybe,No,No,4,35,male,30_to_40,POL,POL
+More than 1000,Unsure,No,No,No,No,0,physical,No,No,10,0,Maybe,No,Yes,No,Yes,0,4,Yes,2,Maybe,No,No,1,33,male,30_to_40,RUS,RUS
+More than 1000,Yes,No,No,Yes,Unsure,2,physical,No,No,3,1,Maybe,No,Maybe,No,No,0,0,Yes,5,Maybe,No,No,1,37,male,30_to_40,USA_IA,USA_IA
+More than 1000,Yes,Yes,Yes,Yes,Unsure,4,physical,Maybe,Maybe,6,3,Yes,Yes,Maybe,Yes,Yes,2,3,Maybe,8,No,No,No,2,45,male,40_to_50,USA_WA,USA_WA
+500-1000,No,No,No,No,Unsure,5,physical,Maybe,No,6,0,Yes,Yes,Yes,Yes,Unsure,3,4,Maybe,7,Yes,No,No,2,31,male,30_to_40,DEU,DEU
+More than 1000,Unsure,No,No,Unsure,Unsure,4,physical,Maybe,Yes,7,6,Maybe,No,Maybe,No,Yes,2,3,Maybe,2,Yes,No,No,3,26,male,20_to_30,DEU,DEU
+100-500,No,No,No,No,Unsure,3,physical,No,No,6,0,Maybe,No,Yes,Yes,No,3,3,No,8,Yes,No,No,1,27,female,20_to_30,SRB,SRB
+6-25,Yes,No,No,No,Unsure,2,same,Maybe,Maybe,5,0,Yes,Yes,Yes,Yes,Yes,3,4,No,9,Maybe,No,No,2,35,male,30_to_40,CAN,CAN
+26-100,Yes,No,No,Yes,Unsure,3,physical,No,No,6,4,Yes,Yes,Yes,No,Yes,2,2,Yes,8,No,No,No,4,47,male,40_to_50,USA_FL,USA_FL
+More than 1000,Yes,Yes,Unsure,Unsure,Unsure,0,physical,Maybe,Maybe,10,10,Yes,Yes,Yes,Yes,Unsure,1,4,No,8,Yes,No,No,3,37,male,30_to_40,USA_FL,USA_FL
+500-1000,No,No,No,No,No,1,physical,No,No,4,3,Maybe,No,No,No,Yes,0,0,No,7,No,No,No,3,32,male,30_to_40,COL,COL
+26-100,Yes,No,No,Unsure,Unsure,4,same,No,Yes,2,0,Yes,Yes,Yes,Yes,Yes,2,3,Yes,8,Yes,Maybe,No,3,37,male,30_to_40,USA_TN,USA_TN
+100-500,Yes,Yes,Unsure,Yes,Yes,4,physical,Yes,Maybe,5,5,Yes,Yes,Yes,Yes,Yes,2,4,No,8,No,No,No,4,36,male,30_to_40,USA_NH,USA_MA
+100-500,Yes,No,No,No,Unsure,5,physical,No,No,4,1,Maybe,No,Maybe,Yes,Unsure,0,0,No,6,Yes,No,No,2,45,male,40_to_50,USA_WI,USA_WI
+6-25,Unsure,No,No,Unsure,Unsure,2,physical,Maybe,Maybe,5,5,No,No,No,No,No,0,0,Maybe,6,Maybe,No,No,3,30,male,20_to_30,USA_MA,USA_MA
+6-25,No,No,Yes,No,Unsure,5,physical,Maybe,Maybe,7,5,No,No,Yes,Yes,Unsure,2,4,No,7,No,No,No,3,46,male,40_to_50,DEU,DEU
+26-100,No,No,No,No,Unsure,1,physical,No,Maybe,5,2,No,No,No,No,No,4,4,Maybe,5,No,No,No,1,29,male,20_to_30,USA,USA
+More than 1000,Unsure,No,No,No,Yes,4,same,No,Maybe,8,6,Maybe,No,Maybe,No,Unsure,2,3,Yes,5,No,No,No,2,26,male,20_to_30,UKR,UKR
+6-25,Unsure,No,No,Unsure,Unsure,1,physical,No,No,5,4,Yes,Yes,Maybe,Yes,Yes,4,4,Maybe,0,Yes,No,No,2,44,male,40_to_50,CAN,CAN
+26-100,Yes,No,No,Unsure,Unsure,3,physical,No,Maybe,5,5,Maybe,No,Maybe,No,Unsure,0,3,Maybe,5,Yes,No,No,3,32,male,30_to_40,USA_RI,USA_RI
+100-500,Unsure,No,No,No,Unsure,0,physical,Maybe,Maybe,6,2,Maybe,No,No,No,No,0,0,No,7,Yes,Yes,No,1,34,male,30_to_40,POL,POL
+500-1000,Yes,No,Yes,Yes,Yes,5,physical,Maybe,Yes,7,6,Maybe,No,Maybe,No,Unsure,0,4,Maybe,5,Maybe,No,No,2,19,male,10_to_20,AUS,AUS
+More than 1000,Unsure,No,No,Unsure,Unsure,0,physical,No,No,7,7,Yes,Yes,Yes,Yes,Yes,0,4,Maybe,2,No,No,No,3,38,male,30_to_40,GBR,GBR
+6-25,No,No,No,No,No,1,physical,No,No,6,4,Yes,Yes,Yes,Yes,No,4,4,Yes,2,Maybe,No,No,1,61,male,60_to_70,USA_MN,USA_MN
+6-25,Yes,Yes,No,Unsure,Unsure,0,physical,No,Yes,7,7,No,No,No,No,Unsure,0,0,No,8,No,No,No,1,44,male,40_to_50,USA_PA,USA_PA
+100-500,Yes,No,Yes,Yes,Yes,4,physical,Yes,Maybe,7,6,No,No,No,No,No,0,0,No,8,Maybe,No,No,3,31,male,30_to_40,PNG,PNG
+26-100,Yes,No,Yes,Yes,Unsure,3,physical,Yes,No,8,6,Maybe,No,Yes,Yes,No,2,3,No,6,Maybe,No,No,2,30,female,20_to_30,USA_RI,USA_RI
+26-100,Unsure,No,No,No,Unsure,0,physical,No,No,5,1,Yes,Yes,Yes,Yes,Yes,3,4,No,9,Yes,No,No,1,44,male,40_to_50,USA_WA,USA_WA
+More than 1000,Unsure,Yes,No,No,Unsure,5,mental,Yes,Yes,10,4,Yes,Yes,Yes,Yes,Yes,1,4,Maybe,10,No,No,No,3,39,male,30_to_40,USA_WA,USA_CA
+26-100,Unsure,No,No,No,Yes,2,same,No,Maybe,5,5,Maybe,No,Maybe,No,Unsure,0,3,No,0,Yes,No,No,2,39,male,30_to_40,USA_PA,USA_PA
+More than 1000,Yes,Yes,Yes,Yes,Unsure,5,same,Yes,Yes,9,7,Yes,Yes,Maybe,Yes,Yes,2,4,No,8,No,No,No,3,33,male,30_to_40,USA_GA,USA_GA
+26-100,No,No,No,No,Unsure,1,physical,No,No,6,2,Maybe,No,No,No,No,0,0,Maybe,7,Maybe,No,No,3,34,male,30_to_40,EST,EST
+26-100,No,No,Yes,Yes,Unsure,5,physical,Maybe,Yes,8,8,Maybe,No,Yes,No,No,2,3,No,10,No,No,No,4,28,male,20_to_30,USA,USA
+26-100,No,No,No,No,Unsure,1,same,No,Maybe,2,0,Yes,Yes,Yes,Yes,No,1,3,Maybe,8,No,No,No,2,43,female,40_to_50,ITA,ITA
+More than 1000,Unsure,No,No,No,Unsure,4,physical,No,Yes,10,3,No,No,No,No,Yes,0,0,Maybe,0,No,No,No,1,42,male,40_to_50,USA_TX,USA_TX
+100-500,Yes,Yes,Unsure,Yes,Unsure,0,physical,Yes,Yes,5,9,Yes,Yes,No,Yes,Yes,3,4,No,10,Maybe,Maybe,No,1,35,male,30_to_40,USA_NY,USA_NJ
+More than 1000,Yes,Yes,Yes,Yes,Yes,5,same,Yes,Yes,7,8,No,No,No,No,Yes,0,0,No,5,No,No,No,3,28,female,20_to_30,USA_NY,USA_NY
+100-500,Yes,Yes,Unsure,Unsure,Unsure,2,physical,Yes,Maybe,5,5,Yes,Yes,Yes,Yes,Yes,2,4,No,10,Maybe,Maybe,No,4,37,male,30_to_40,USA_GA,USA_GA
+500-1000,Unsure,Yes,No,No,Unsure,4,physical,No,No,10,5,Yes,Yes,Yes,Yes,Yes,3,4,Yes,7,Maybe,No,No,3,35,female,30_to_40,USA_FL,USA_FL
+6-25,Unsure,No,No,Unsure,Unsure,0,physical,No,Maybe,7,1,No,No,No,No,No,0,0,No,5,No,Maybe,No,2,31,male,30_to_40,USA_NY,USA_NY
+500-1000,Yes,No,No,No,Unsure,2,physical,Maybe,No,7,6,No,No,No,No,No,2,1,Yes,5,No,No,No,4,27,female,20_to_30,USA_TX,USA_TX
+More than 1000,Yes,No,Yes,Yes,Unsure,5,physical,Yes,Yes,8,9,No,No,Maybe,Yes,Yes,2,3,No,9,Maybe,No,No,4,36,male,30_to_40,USA_NY,USA_NY
+6-25,Unsure,No,No,Unsure,Yes,4,physical,Yes,Maybe,3,3,No,No,Yes,Yes,No,2,2,No,8,Maybe,Maybe,No,3,33,male,30_to_40,USA_CA,USA_CA
+More than 1000,Yes,Yes,Yes,Yes,Yes,5,physical,No,Maybe,5,5,No,No,No,No,No,0,0,No,3,No,No,No,4,26,male,20_to_30,USA_NY,USA_NY
+More than 1000,Unsure,No,No,No,Unsure,0,physical,No,No,5,5,Yes,Yes,Yes,Yes,No,2,4,No,5,Maybe,No,No,2,24,male,20_to_30,USA_NY,USA_NJ
+More than 1000,Yes,Yes,Yes,Yes,Unsure,4,physical,Yes,Yes,5,5,Yes,Yes,Yes,Yes,Yes,4,4,No,7,No,No,Yes,4,34,male,30_to_40,USA_WA,USA_WA
+26-100,Yes,Yes,No,No,Unsure,0,physical,No,No,10,5,Maybe,No,Maybe,No,Unsure,0,2,Yes,5,Maybe,Maybe,No,3,25,male,20_to_30,USA_NY,USA_NY
+6-25,Unsure,No,No,No,Yes,0,same,No,Maybe,8,7,Yes,Yes,Yes,Yes,Yes,3,4,Maybe,5,Maybe,No,No,4,19,female,10_to_20,USA_NY,USA_NY
+26-100,Yes,No,No,Unsure,Yes,2,physical,No,No,4,4,No,No,No,No,No,0,0,No,4,No,No,No,2,28,male,20_to_30,USA_MA,USA_MA
+More than 1000,Yes,Yes,No,No,Yes,4,physical,Yes,No,6,4,Yes,Yes,Maybe,Yes,Yes,3,4,Yes,10,No,No,No,4,26,male,20_to_30,USA_WA,USA_WA
+1-5,No,No,No,No,No,4,physical,Maybe,Maybe,2,2,Yes,Yes,No,Yes,Yes,4,4,Maybe,6,Yes,Yes,Yes,2,32,male,30_to_40,ZAF,ZAF
+500-1000,Unsure,No,No,No,Unsure,2,physical,Maybe,No,5,2,Yes,Yes,Yes,Yes,Unsure,4,4,No,1,No,No,No,1,23,male,20_to_30,USA_NH,USA_NH
+More than 1000,Yes,Yes,Yes,Yes,Yes,4,physical,Yes,Maybe,3,5,No,No,No,No,Yes,0,0,No,8,Maybe,No,No,4,46,male,40_to_50,USA_AL,USA_AL
+6-25,Unsure,No,No,No,Unsure,1,same,Yes,No,3,2,Maybe,No,No,No,No,0,0,No,6,No,No,No,2,28,male,20_to_30,USA_MO,USA_MO
+6-25,Unsure,No,No,No,Unsure,4,physical,Maybe,Maybe,5,0,Yes,Yes,Yes,Yes,Unsure,3,4,Maybe,2,Maybe,No,No,1,30,female,20_to_30,USA_IN,USA_IN
+6-25,Unsure,No,No,No,Unsure,2,same,Yes,Maybe,4,4,No,No,No,No,No,0,0,No,7,Maybe,No,No,1,26,male,20_to_30,BRA,BRA
+6-25,Yes,Yes,No,No,Yes,5,physical,Maybe,No,7,5,No,No,No,No,No,3,3,Maybe,2,No,No,No,3,37,female,30_to_40,MUS,MUS
+100-500,Yes,Yes,Yes,Yes,Unsure,3,same,Maybe,Maybe,6,9,Yes,Yes,Yes,Yes,Unsure,2,4,No,10,Maybe,Maybe,Yes,3,35,male,30_to_40,USA_OH,USA_OH
+100-500,Yes,Yes,Yes,Yes,Yes,0,physical,Maybe,No,5,5,Yes,Yes,Yes,Yes,Yes,1,4,No,10,No,No,No,2,26,female,20_to_30,USA_CA,USA_CA
+26-100,Yes,Yes,Yes,Yes,Yes,5,same,Maybe,Yes,5,5,No,No,No,No,No,0,0,Maybe,8,Maybe,Maybe,No,4,29,female,20_to_30,GBR,GBR
+More than 1000,Yes,Yes,Unsure,Yes,Yes,0,same,Yes,Maybe,7,6,Yes,Yes,Yes,Yes,Yes,3,4,No,8,No,No,No,3,57,male,50_to_60,USA_IL,USA_IL
+More than 1000,Yes,Yes,Yes,Yes,Yes,4,physical,Yes,No,7,6,No,No,No,No,No,0,0,Yes,1,No,No,No,3,38,male,30_to_40,USA_NC,USA_NC
+More than 1000,Yes,No,Yes,Yes,Yes,4,physical,Yes,Yes,7,8,Yes,Yes,Yes,Yes,No,2,3,No,10,Yes,Maybe,No,3,20,female,10_to_20,GBR,GBR
+6-25,Unsure,No,No,No,Unsure,1,physical,No,Maybe,5,5,Maybe,No,Maybe,No,Yes,0,0,Maybe,2,Maybe,Maybe,No,1,41,male,40_to_50,USA_FL,USA_FL
+6-25,Yes,No,No,No,No,2,physical,Maybe,No,0,0,Maybe,No,Maybe,No,Yes,0,4,Yes,0,Maybe,No,No,1,43,male,40_to_50,USA_FL,USA_FL
+More than 1000,Yes,Yes,No,Yes,Yes,0,physical,Yes,Maybe,5,5,Yes,Yes,Yes,Yes,Unsure,2,4,No,10,No,No,No,3,35,male,30_to_40,USA_PA,USA_PA
+6-25,Unsure,No,No,No,Unsure,3,same,Yes,Yes,4,7,Maybe,No,Yes,Yes,Yes,2,3,No,8,Maybe,No,Yes,3,40,female,30_to_40,USA_PA,USA_PA
+26-100,Unsure,No,Unsure,Unsure,No,3,same,Maybe,Maybe,5,2,Maybe,No,Maybe,No,No,3,3,No,5,Yes,Maybe,No,4,28,male,20_to_30,BRA,BRA
+More than 1000,Yes,Yes,Yes,Yes,Yes,5,same,Yes,Yes,9,7,Yes,Yes,Yes,Yes,Yes,3,4,No,10,Maybe,Maybe,No,4,42,male,40_to_50,USA_MI,USA_MI
+More than 1000,Yes,No,No,Yes,Yes,4,physical,Maybe,Maybe,2,2,No,No,No,No,No,0,0,No,4,No,No,No,3,39,male,30_to_40,USA_KS,USA_KS
+More than 1000,Yes,Yes,Unsure,Yes,Yes,3,physical,Yes,Maybe,5,3,Yes,Yes,Yes,Yes,Yes,3,4,No,10,Maybe,Maybe,No,2,28,male,20_to_30,USA_IA,USA_IA
+6-25,No,No,No,Unsure,Unsure,4,mental,Yes,Maybe,7,7,No,No,No,No,No,3,0,Maybe,7,Maybe,Maybe,No,4,22,male,20_to_30,USA,USA
+100-500,Yes,Yes,No,Yes,Unsure,2,physical,No,Yes,6,5,No,No,No,Yes,Yes,0,0,No,8,No,No,No,2,29,female,20_to_30,USA_CA,USA_CA
+More than 1000,No,No,No,No,Unsure,1,physical,No,No,7,1,No,No,No,No,Yes,0,0,Yes,2,Yes,No,No,1,27,female,20_to_30,SAU,SAU
+26-100,Unsure,No,No,No,Unsure,2,physical,No,No,6,0,No,No,Maybe,No,No,0,0,No,10,Maybe,No,No,1,32,female,30_to_40,DEU,DEU
+500-1000,Yes,Yes,No,Unsure,Unsure,4,same,Yes,Maybe,8,6,Yes,Yes,Yes,Yes,Unsure,2,3,No,8,Yes,No,No,3,28,male,20_to_30,USA_OR,USA_OR
+100-500,Yes,No,No,Yes,Yes,4,physical,Yes,Maybe,5,5,Yes,Yes,Yes,Yes,Yes,3,4,No,10,Yes,No,Yes,3,31,male,30_to_40,USA_OR,USA_CA
+More than 1000,No,No,No,No,No,1,physical,No,Maybe,0,0,No,No,No,No,No,0,0,Maybe,10,Yes,Maybe,No,1,24,female,20_to_30,NGA,NGA
+More than 1000,Yes,Yes,Yes,Yes,Yes,0,physical,No,No,7,6,Maybe,No,Maybe,No,Yes,0,0,Maybe,7,No,Maybe,No,3,27,female,20_to_30,USA_TX,USA_TX
+More than 1000,Yes,Yes,Yes,Yes,Yes,5,physical,No,No,10,10,No,No,No,No,No,0,0,No,10,Yes,No,No,4,36,female,30_to_40,PNG,PNG
+More than 1000,No,Yes,No,No,No,1,physical,No,No,0,0,Yes,Yes,Yes,Yes,Yes,2,4,Yes,2,No,No,No,1,37,male,30_to_40,USA_CA,USA_CA
+100-500,Yes,Yes,No,Unsure,Yes,5,same,No,Yes,10,5,No,No,Maybe,Yes,Yes,0,0,No,10,No,No,No,2,53,female,50_to_60,USA_OR,USA_OR
+100-500,No,No,No,No,Unsure,5,physical,Maybe,Maybe,6,5,No,No,No,No,No,0,0,Maybe,8,Maybe,Maybe,No,3,32,male,30_to_40,FRA,FRA
+1-5,Unsure,No,No,No,Unsure,2,physical,No,Maybe,3,1,Yes,Yes,Maybe,Yes,Yes,2,4,Maybe,10,No,No,No,1,25,female,20_to_30,USA_NY,USA_NY
+6-25,No,No,No,Unsure,Unsure,1,physical,Maybe,Maybe,7,4,Yes,Yes,Yes,Yes,Yes,3,4,Maybe,10,Maybe,No,No,2,29,female,20_to_30,USA_WI,USA_WI
+26-100,Yes,No,No,Yes,Yes,2,same,Yes,Maybe,9,9,No,No,No,No,Unsure,0,0,No,9,Maybe,No,No,3,47,male,40_to_50,USA_TN,USA_TN
+More than 1000,Yes,No,No,Unsure,Unsure,2,physical,Maybe,Maybe,7,2,Maybe,No,Maybe,Yes,Yes,2,4,No,9,No,No,No,2,61,male,60_to_70,USA_MA,USA_MA
+6-25,Yes,No,No,Unsure,Yes,0,physical,Maybe,Maybe,9,5,Maybe,No,Yes,No,No,3,4,Yes,9,Maybe,No,No,4,28,male,20_to_30,USA_KY,USA_KY
+500-1000,Yes,Yes,Yes,No,Yes,0,same,Yes,Yes,8,8,Maybe,No,Maybe,Yes,Yes,0,0,No,8,Yes,Maybe,No,3,31,male,30_to_40,USA_IL,USA_IL
+6-25,No,No,No,No,Unsure,4,physical,Maybe,Maybe,4,4,No,No,No,Yes,Unsure,4,2,Maybe,4,No,No,No,2,35,male,30_to_40,URY,URY
+26-100,Unsure,No,No,Unsure,Unsure,4,physical,Yes,Maybe,8,6,Yes,Yes,Maybe,Yes,Yes,2,4,No,9,Yes,Maybe,No,4,40,male,30_to_40,USA_GA,USA_GA
+26-100,Yes,No,No,Unsure,Yes,4,same,Yes,Yes,5,5,No,No,Yes,No,No,3,2,No,9,Maybe,No,No,2,41,male,40_to_50,USA_TX,USA_TX
+6-25,Yes,Yes,No,Yes,Unsure,1,physical,Maybe,No,5,5,Yes,Yes,Yes,Yes,No,2,2,Maybe,10,No,No,No,3,34,male,30_to_40,USA_MN,USA_MN
+6-25,Unsure,No,No,No,Unsure,3,physical,Maybe,Maybe,3,3,Yes,Yes,Yes,Yes,Yes,4,4,Yes,2,No,No,No,3,31,female,30_to_40,USA_IL,USA_IL
+More than 1000,Yes,Yes,No,Unsure,Yes,5,same,Yes,Yes,7,7,Yes,Yes,No,Yes,Unsure,4,4,Maybe,10,No,No,Yes,4,35,female,30_to_40,USA_MD,USA_MD
+500-1000,Yes,Yes,Yes,Yes,Yes,4,physical,Maybe,Yes,8,8,Maybe,No,Maybe,Yes,Yes,0,0,No,8,Maybe,No,No,2,27,female,20_to_30,USA_CA,USA_CA
+100-500,Yes,No,No,Yes,Yes,4,physical,Yes,Maybe,6,8,No,No,Yes,Yes,Yes,2,3,Maybe,6,No,No,No,3,42,female,40_to_50,USA_TX,USA_TX
+More than 1000,Yes,Yes,No,No,Yes,4,physical,No,No,5,2,Yes,Yes,Yes,Yes,Yes,2,4,Maybe,9,Maybe,No,No,3,56,male,50_to_60,USA_CA,USA_CA
+6-25,Yes,No,No,No,Unsure,3,same,Maybe,Maybe,3,3,Yes,Yes,Yes,Yes,Yes,4,4,Yes,8,No,No,No,3,27,female,20_to_30,USA_IN,USA_IL
+More than 1000,Yes,No,No,Unsure,Yes,2,physical,Yes,Yes,6,6,Maybe,No,Yes,Yes,Yes,2,3,No,5,Yes,Maybe,No,3,37,female,30_to_40,GBR,GBR
+26-100,Yes,Yes,Yes,Yes,Yes,5,physical,No,Yes,9,8,Yes,Yes,Maybe,No,Unsure,3,4,Maybe,2,Maybe,No,No,3,30,female,20_to_30,GBR,GBR
+More than 1000,Yes,No,Unsure,Unsure,Yes,2,physical,Yes,Maybe,7,5,Maybe,No,No,No,Yes,2,4,Maybe,8,Maybe,No,No,3,39,male,30_to_40,USA_NE,USA_NE
+6-25,No,No,No,No,Unsure,0,same,Maybe,Maybe,6,6,Yes,Yes,Yes,Yes,Yes,2,4,Maybe,7,No,No,No,3,30,female,20_to_30,USA_OH,USA_OH
+6-25,Unsure,No,No,Unsure,Unsure,4,same,Yes,Yes,7,7,No,No,No,No,No,0,0,No,7,Maybe,Maybe,No,4,31,male,30_to_40,NLD,NLD
+6-25,Yes,Yes,No,No,Unsure,0,physical,No,Maybe,8,8,No,No,Yes,Yes,Yes,3,4,Maybe,10,No,Yes,No,3,46,male,40_to_50,GBR,GBR
+500-1000,Yes,Yes,Yes,Yes,Yes,2,physical,Maybe,Maybe,9,5,Yes,Yes,Yes,Yes,Yes,3,3,Yes,9,No,No,No,3,45,female,40_to_50,USA_IL,USA_IL
+More than 1000,No,No,No,No,Unsure,0,same,Maybe,Maybe,2,0,Yes,Yes,Yes,Yes,Yes,3,4,Maybe,5,No,No,No,1,38,female,30_to_40,USA_IL,USA_IL
+26-100,Yes,Yes,Yes,Unsure,Unsure,5,same,Yes,No,8,8,No,No,No,No,No,0,0,Maybe,5,No,No,No,5,41,male,40_to_50,USA_IL,USA_IL
+100-500,Yes,Yes,Unsure,Yes,Yes,4,physical,Maybe,Yes,8,5,Yes,Yes,Yes,Yes,Yes,2,3,No,6,No,No,No,3,37,male,30_to_40,USA_NJ,USA_NJ
+26-100,Unsure,No,No,No,Yes,5,physical,No,No,7,7,No,No,No,No,No,0,0,No,9,No,No,No,4,33,female,30_to_40,USA_IL,USA_IL
+26-100,Yes,Yes,Yes,Yes,Yes,5,physical,Yes,Maybe,8,9,Yes,Yes,Yes,Yes,Yes,3,4,No,10,Maybe,No,Yes,3,28,nonbinary,20_to_30,USA_IL,USA_IL
+26-100,Yes,Yes,No,No,Unsure,0,physical,Yes,Yes,3,3,Yes,Yes,Yes,Yes,Yes,3,4,Yes,10,Yes,Yes,Yes,2,29,female,20_to_30,CAN,CAN
+500-1000,Yes,Yes,No,No,Unsure,3,same,Yes,Yes,5,5,Yes,Yes,Yes,Yes,Yes,1,4,Yes,5,No,No,No,3,28,female,20_to_30,USA_MA,USA_MA
+More than 1000,Yes,No,Yes,Yes,Unsure,0,physical,Maybe,Yes,3,5,Yes,Yes,Maybe,Yes,Yes,3,3,No,8,Maybe,No,No,2,38,male,30_to_40,USA_IL,USA_IL
+More than 1000,Yes,Yes,Yes,Yes,Yes,4,physical,No,Maybe,6,6,No,No,Maybe,Yes,No,0,0,Maybe,7,Maybe,No,No,3,42,male,40_to_50,USA_CA,USA_CA
+100-500,Yes,No,Yes,No,Unsure,4,same,Maybe,Maybe,3,4,Yes,Yes,Yes,No,Yes,1,4,No,3,Maybe,No,No,3,28,female,20_to_30,USA_CA,USA_CA
+More than 1000,Yes,Yes,Yes,Yes,Yes,0,physical,Yes,Yes,8,8,Yes,Yes,Yes,Yes,Yes,3,4,Yes,9,Maybe,No,No,2,30,male,20_to_30,USA_CA,USA_CA
+6-25,Yes,Yes,Yes,Yes,Unsure,5,same,Yes,Yes,9,9,Yes,Yes,Yes,Yes,No,3,4,No,9,Maybe,No,Yes,4,25,female,20_to_30,GBR,GBR
+More than 1000,Yes,Yes,No,Yes,Unsure,1,same,No,Yes,4,1,Maybe,No,Yes,Yes,Yes,2,4,No,10,No,No,No,1,44,male,40_to_50,USA_CA,USA_CA
+500-1000,Yes,No,No,No,Unsure,0,physical,Yes,No,5,0,Yes,Yes,Yes,Yes,Yes,3,4,Yes,1,Maybe,No,No,2,28,nonbinary,20_to_30,USA_OH,USA_OH
+More than 1000,Yes,No,No,Unsure,Unsure,5,same,Maybe,Yes,7,5,Maybe,No,Yes,Yes,Yes,3,4,Yes,7,Maybe,No,No,2,41,female,40_to_50,USA_OR,USA_OR
+26-100,Yes,No,No,Yes,Unsure,4,physical,Maybe,Maybe,6,5,No,No,No,No,No,0,0,Maybe,7,Maybe,Maybe,No,3,38,male,30_to_40,USA_MO,USA_MO
+100-500,Yes,Yes,No,Unsure,Unsure,0,physical,Maybe,Maybe,7,7,Yes,Yes,Yes,Yes,Unsure,3,4,No,8,Maybe,Maybe,No,3,37,male,30_to_40,USA_TX,USA_TX
+100-500,Unsure,No,No,Unsure,Unsure,2,physical,Yes,Yes,6,5,Maybe,No,No,No,Yes,0,0,Maybe,8,Maybe,No,No,2,36,male,30_to_40,JPN,JPN
+More than 1000,Unsure,No,No,Unsure,Unsure,3,physical,Maybe,Maybe,5,5,No,No,No,No,No,0,0,Maybe,5,Maybe,Maybe,No,3,33,male,30_to_40,USA_TN,USA_TN
+More than 1000,Yes,Yes,Yes,Yes,Yes,4,same,Maybe,Yes,6,7,Yes,Yes,Yes,Yes,Unsure,2,3,Maybe,9,Maybe,Maybe,Yes,3,35,female,30_to_40,USA_PA,USA_PA
+More than 1000,Yes,Yes,No,No,Yes,4,physical,Maybe,Maybe,10,5,Yes,Yes,Maybe,Yes,No,2,4,Maybe,6,Yes,Maybe,No,3,43,male,40_to_50,USA_IA,USA_IA
+26-100,No,No,Yes,Yes,Yes,5,same,Yes,Yes,8,10,Maybe,No,Yes,Yes,Yes,0,0,No,9,Yes,Yes,Yes,4,34,male,30_to_40,USA_ID,USA_ID
+1-5,No,No,Yes,Yes,Yes,4,mental,Yes,Maybe,8,8,Maybe,No,Yes,Yes,Yes,3,4,No,8,Maybe,No,Yes,1,44,female,40_to_50,USA_IL,USA_IL
+500-1000,Yes,Yes,No,Yes,Yes,4,physical,Yes,Maybe,5,6,Yes,Yes,Yes,Yes,Yes,3,4,No,9,No,No,Yes,3,38,male,30_to_40,USA_WA,USA_WA
+1-5,No,No,No,No,Yes,4,physical,Maybe,Maybe,6,5,No,No,No,No,No,3,0,No,4,Maybe,Maybe,No,3,55,male,50_to_60,USA_TN,USA_TN
+100-500,No,No,No,Unsure,Unsure,5,same,No,No,10,4,Maybe,No,Maybe,No,Unsure,0,4,No,0,Maybe,No,No,1,25,male,20_to_30,USA,USA
+100-500,Yes,Yes,No,Unsure,Unsure,1,physical,No,No,3,0,Yes,Yes,No,Yes,Yes,2,4,Maybe,1,No,No,No,2,37,male,30_to_40,USA_PA,USA_PA
+100-500,Yes,No,Yes,Yes,Unsure,5,physical,Maybe,Yes,7,7,No,No,No,No,No,0,0,Maybe,9,No,No,No,3,39,male,30_to_40,USA_IL,USA_IL
+More than 1000,Yes,Yes,Unsure,Yes,Unsure,3,physical,Maybe,Maybe,7,7,Maybe,No,Yes,No,Unsure,2,3,No,3,Maybe,No,No,2,23,male,20_to_30,USA_MA,USA_MA
+26-100,Yes,No,No,No,Unsure,2,same,Maybe,Maybe,7,7,Yes,Yes,Yes,Yes,Unsure,3,3,No,10,No,No,No,3,43,male,40_to_50,USA_TX,USA_TX
+6-25,Unsure,No,No,Unsure,Yes,3,physical,Yes,Maybe,8,6,Yes,Yes,Yes,Yes,Yes,2,3,Maybe,9,Yes,Maybe,No,3,29,male,20_to_30,USA_TN,USA_TN
+6-25,No,No,No,No,Unsure,4,physical,Yes,Yes,5,4,Maybe,No,Maybe,No,Yes,0,0,No,7,Yes,Maybe,No,3,25,male,20_to_30,USA_NE,USA_NE
+6-25,Yes,Yes,No,No,Yes,5,physical,Maybe,No,2,5,Maybe,No,Maybe,No,Unsure,0,0,No,0,Maybe,No,No,3,36,male,30_to_40,USA_OH,USA_OH
+100-500,Yes,Yes,No,No,Yes,5,same,Yes,Yes,5,3,Maybe,No,Maybe,Yes,No,2,4,No,6,Yes,No,No,3,33,male,30_to_40,USA_WA,USA_WA
+100-500,Yes,No,No,Unsure,Unsure,4,physical,Yes,Yes,5,5,No,No,No,No,Yes,0,0,No,8,Yes,Maybe,No,3,34,male,30_to_40,USA_TN,USA_TN
+More than 1000,Yes,Yes,Yes,Yes,Yes,4,physical,Maybe,Maybe,8,7,Maybe,No,Maybe,No,No,0,0,No,7,No,No,No,2,28,male,20_to_30,USA_CA,USA_CA
+100-500,Yes,Yes,Yes,Yes,Unsure,4,same,Yes,Maybe,10,10,No,No,Maybe,Yes,Yes,2,3,Maybe,9,Maybe,Maybe,Yes,2,54,nonbinary,50_to_60,USA_WA,USA_WA
+26-100,Unsure,No,No,No,Unsure,0,same,Yes,Maybe,6,5,No,No,No,No,No,0,0,Maybe,7,No,No,No,2,39,male,30_to_40,USA_IL,USA_IL
+100-500,Yes,Yes,No,Yes,Yes,2,physical,No,Maybe,6,4,Yes,Yes,Yes,Yes,Yes,3,4,No,4,Maybe,Maybe,No,2,37,male,30_to_40,USA_IL,USA_IL
+26-100,Unsure,No,No,Unsure,Unsure,4,physical,No,No,5,5,Maybe,No,No,No,Yes,0,0,Yes,6,No,No,No,1,29,male,20_to_30,USA_CA,USA_CA
+More than 1000,Unsure,No,No,Yes,Unsure,5,physical,Yes,Maybe,5,5,Maybe,No,Maybe,No,Yes,3,4,No,7,Maybe,Maybe,Yes,3,31,male,30_to_40,USA_CT,USA_CT
+More than 1000,Yes,Yes,Yes,Unsure,Yes,5,same,Yes,Yes,7,7,Yes,Yes,Yes,Yes,No,1,3,Yes,10,Maybe,Maybe,No,2,49,male,40_to_50,USA_NV,USA_NV
+100-500,Yes,No,Unsure,Unsure,Yes,5,physical,Maybe,No,5,5,No,No,No,Yes,Yes,0,0,Yes,7,Yes,No,No,2,43,male,40_to_50,USA_WA,USA_WA
+500-1000,Yes,Yes,Yes,Yes,Yes,4,same,Yes,Yes,8,7,Yes,Yes,Yes,Yes,Yes,3,4,No,10,Yes,Maybe,Yes,4,38,nonbinary,30_to_40,USA_NH,USA_NH
+100-500,Yes,Yes,Unsure,Unsure,Unsure,4,physical,Maybe,Maybe,4,3,No,No,Yes,Yes,Yes,2,4,No,7,Yes,No,No,4,35,female,30_to_40,USA_OR,USA_OR
+More than 1000,Yes,Yes,No,Yes,Unsure,4,physical,Maybe,Maybe,5,2,Yes,Yes,Yes,Yes,Unsure,3,4,Yes,3,Yes,No,No,3,23,male,20_to_30,USA_SC,USA_SC
+26-100,Unsure,No,No,Unsure,Yes,5,same,Yes,Yes,7,7,No,No,Yes,Yes,Yes,2,2,No,10,Yes,Yes,No,3,42,male,40_to_50,GBR,GBR
+More than 1000,Yes,Yes,Yes,Yes,Yes,4,physical,Yes,Maybe,6,5,Yes,Yes,Yes,Yes,Yes,3,4,No,8,Maybe,No,No,4,36,male,30_to_40,USA_IN,USA_IN
+More than 1000,Yes,No,No,Unsure,Unsure,4,physical,Yes,No,6,5,Yes,No,Maybe,Yes,No,3,4,Maybe,4,Maybe,No,No,3,38,male,30_to_40,USA_NE,USA_NE
+More than 1000,Unsure,No,No,Yes,Unsure,0,physical,Maybe,Maybe,5,5,Maybe,No,Maybe,Yes,No,0,0,Maybe,5,No,No,No,1,41,male,40_to_50,GBR,GBR
+More than 1000,Yes,Yes,Unsure,Unsure,Yes,3,physical,Yes,Maybe,8,6,Yes,Yes,Yes,Yes,Yes,3,4,Maybe,7,No,No,No,2,37,female,30_to_40,USA_IN,USA_IN
+26-100,Unsure,No,Yes,Yes,Yes,4,physical,Yes,Maybe,8,10,Yes,Yes,Yes,Yes,Yes,0,3,Maybe,10,No,No,No,4,25,male,20_to_30,USA_MN,USA_MN
+100-500,Yes,Yes,Yes,Yes,Yes,4,physical,Yes,Yes,9,7,No,No,Maybe,No,Yes,2,4,No,9,Maybe,No,No,3,33,male,30_to_40,USA_IL,USA_IL
+100-500,Unsure,No,Yes,Unsure,Unsure,4,same,Yes,Yes,7,6,No,No,Maybe,Yes,Yes,0,0,Maybe,7,No,No,No,3,35,nonbinary,30_to_40,USA_NM,USA_CA
+More than 1000,Yes,Yes,Yes,Yes,Unsure,3,physical,No,Maybe,5,5,Yes,Yes,Yes,Yes,Yes,2,4,No,10,No,No,No,4,32,female,30_to_40,USA_OR,USA_OR
+100-500,No,No,Yes,No,Unsure,1,physical,No,Yes,10,6,Yes,Yes,Yes,Yes,Yes,2,4,No,5,Yes,No,No,3,25,female,20_to_30,POL,POL
+More than 1000,Yes,Yes,Yes,Yes,Unsure,3,physical,Yes,Maybe,7,7,Yes,Yes,Yes,Yes,Yes,2,4,No,5,Maybe,No,No,3,40,female,30_to_40,USA_CA,USA_CA
+100-500,Yes,Yes,Unsure,Unsure,Unsure,4,same,Maybe,Yes,7,6,No,No,Yes,Yes,No,2,0,No,8,Maybe,No,No,4,34,male,30_to_40,USA_CA,USA_CA
+More than 1000,Yes,Yes,Yes,Yes,Yes,4,physical,Yes,No,4,3,No,No,No,No,No,0,0,Maybe,4,No,No,No,2,28,male,20_to_30,USA_MO,USA_MO
+More than 1000,Yes,Yes,No,Unsure,Unsure,2,physical,No,No,9,3,Yes,Yes,Yes,Yes,Yes,4,4,Maybe,2,Maybe,No,Yes,2,49,male,40_to_50,USA_PA,USA_PA
+100-500,Yes,Yes,Yes,Yes,Yes,5,same,Yes,Yes,5,7,Yes,Yes,Yes,Yes,Yes,2,3,No,8,No,No,Yes,3,33,female,30_to_40,USA_MI,USA_MI
+26-100,Yes,Yes,No,No,Yes,5,physical,No,Maybe,5,7,Maybe,No,Yes,Yes,Yes,3,4,No,5,Yes,No,No,4,36,male,30_to_40,USA_FL,USA_FL
+More than 1000,No,No,No,Yes,No,1,same,Maybe,Maybe,8,2,Yes,Yes,Yes,Yes,Yes,2,4,No,10,Maybe,No,Yes,2,37,male,30_to_40,USA_IL,USA_IL
+6-25,Unsure,No,No,Unsure,Unsure,1,physical,Maybe,Maybe,0,3,Yes,Yes,Yes,Yes,Yes,4,4,Yes,7,Maybe,No,No,2,39,male,30_to_40,USA_PA,USA_PA
+100-500,Unsure,No,No,No,Unsure,2,physical,No,Maybe,4,2,Maybe,No,Maybe,Yes,Yes,3,4,Maybe,5,No,No,No,2,49,female,40_to_50,USA_VA,USA_VA
+100-500,Unsure,No,Yes,Yes,Unsure,0,physical,Yes,Maybe,7,7,No,No,No,No,No,0,0,Maybe,8,No,No,No,3,33,male,30_to_40,USA_MI,USA_MI
+100-500,Unsure,No,Yes,Unsure,Unsure,5,mental,Yes,Yes,5,8,Maybe,No,Maybe,Yes,No,3,0,No,5,Maybe,Maybe,No,4,29,male,20_to_30,GBR,GBR
+26-100,Yes,No,No,No,Unsure,0,physical,Maybe,Maybe,3,4,Maybe,No,Yes,No,No,0,0,Maybe,4,Maybe,No,No,3,25,male,20_to_30,USA_NE,USA_NE
+100-500,Unsure,No,No,Unsure,Unsure,1,physical,No,No,2,1,Yes,Yes,Yes,Yes,Unsure,3,3,Maybe,8,Maybe,No,No,2,35,male,30_to_40,USA_IL,USA_IL
+6-25,Yes,Yes,No,Yes,Unsure,0,same,Yes,Yes,10,10,Yes,Yes,Yes,Yes,Yes,2,4,No,10,Maybe,No,Yes,4,21,male,20_to_30,USA_MO,USA_MO
+6-25,Yes,No,No,No,Yes,5,same,Yes,Yes,0,0,No,No,No,Yes,No,0,0,No,10,No,No,No,5,43,male,40_to_50,USA_NE,USA_NY
+More than 1000,Yes,Yes,Yes,Yes,Unsure,4,same,Yes,Yes,5,5,Yes,Yes,Yes,Yes,Yes,2,4,No,8,Maybe,Maybe,Yes,2,31,female,30_to_40,USA_WA,USA_WA
+26-100,Unsure,No,Yes,Yes,Unsure,0,physical,Maybe,Maybe,6,5,Yes,Yes,Yes,Yes,Yes,3,4,No,8,No,No,No,2,27,female,20_to_30,USA_NE,USA_NE
+6-25,Yes,Yes,No,No,Yes,4,same,No,No,0,0,Yes,Yes,Yes,Yes,Unsure,2,4,No,0,Maybe,No,No,5,23,male,20_to_30,USA_NE,USA_NE
+More than 1000,Yes,Yes,Yes,Yes,Yes,5,physical,No,No,5,3,No,No,No,Yes,Yes,0,0,Yes,5,No,No,No,3,28,male,20_to_30,USA_NE,USA_NE
+More than 1000,Yes,Yes,Yes,Yes,Unsure,2,physical,No,No,5,3,Yes,Yes,Yes,Yes,Yes,3,4,Yes,7,No,No,No,2,37,female,30_to_40,USA_NE,USA_NE
+6-25,Unsure,No,No,Unsure,Unsure,4,physical,Maybe,Yes,5,5,No,No,No,No,No,0,0,Maybe,6,Maybe,Maybe,No,3,30,male,20_to_30,USA_KS,USA_KS
+6-25,Yes,Yes,No,Yes,Unsure,0,physical,No,No,1,3,No,No,No,No,No,0,0,Yes,4,No,No,No,1,30,male,20_to_30,USA_NE,USA_NE
+100-500,Yes,No,No,No,Unsure,2,physical,Maybe,Maybe,6,2,Yes,Yes,Yes,Yes,Unsure,4,4,No,10,Maybe,No,Yes,1,30,female,20_to_30,USA_WA,USA_CA
+More than 1000,No,No,No,Unsure,Unsure,1,same,No,No,1,0,Yes,Yes,Yes,Yes,Yes,4,4,Yes,8,No,No,No,1,35,male,30_to_40,USA_NE,USA_NE
+More than 1000,Yes,Yes,Yes,Yes,Yes,5,same,Yes,Maybe,8,6,Yes,Yes,Yes,Yes,Yes,2,4,Yes,8,No,No,No,1,45,female,40_to_50,USA_CA,USA_CA
+500-1000,No,Yes,No,No,Unsure,1,physical,No,Maybe,7,6,Yes,Yes,Yes,Yes,Yes,2,4,Yes,8,No,No,No,2,31,female,30_to_40,DEU,DEU
+100-500,Yes,Yes,Yes,Yes,Unsure,4,physical,Maybe,Yes,6,8,Yes,Yes,Maybe,Yes,Yes,3,0,No,5,Maybe,No,No,3,34,female,30_to_40,USA_IL,USA_IL
+100-500,No,No,No,No,Unsure,1,physical,No,No,0,0,Maybe,No,Maybe,Yes,Yes,2,4,Maybe,7,No,No,No,2,30,male,20_to_30,USA_NY,USA_NY
+More than 1000,Yes,Yes,No,No,Unsure,4,physical,No,Maybe,7,2,Yes,Yes,Maybe,Yes,Unsure,2,4,Maybe,8,No,No,No,2,33,nonbinary,30_to_40,USA_CA,USA_CA
+26-100,Unsure,No,No,No,Unsure,4,same,Maybe,Maybe,7,7,Maybe,No,Maybe,No,Yes,0,0,No,5,No,No,No,3,32,male,30_to_40,NZL,USA_FL
+500-1000,Unsure,No,No,Yes,Unsure,0,physical,No,No,9,3,Maybe,No,No,No,Unsure,0,0,No,6,Yes,No,No,2,28,female,20_to_30,USA_IL,USA_IL
+6-25,No,Yes,No,No,Unsure,4,physical,No,Yes,5,2,No,No,Yes,Yes,Yes,2,4,Yes,10,Yes,Maybe,No,1,28,male,20_to_30,USA_IL,USA_IL
+500-1000,Yes,Yes,No,Unsure,Yes,3,physical,No,Yes,7,4,Yes,Yes,Maybe,Yes,Yes,2,4,No,9,Maybe,Maybe,No,2,33,male,30_to_40,USA_IL,USA_IL
+100-500,Yes,Yes,Yes,No,Yes,5,same,No,Yes,7,6,Maybe,No,Maybe,Yes,Unsure,2,3,No,6,No,No,No,3,28,female,20_to_30,USA_IL,USA_IL
+100-500,Unsure,No,No,No,Unsure,0,physical,Maybe,Maybe,5,0,Yes,No,Maybe,Yes,Yes,0,4,Maybe,9,Maybe,No,No,1,28,female,20_to_30,USA_CA,USA_CA
+26-100,Unsure,No,No,Unsure,No,4,physical,Yes,Maybe,8,3,No,No,No,No,No,0,0,Maybe,6,Maybe,No,No,2,43,male,40_to_50,USA_MN,USA_MN
+More than 1000,Unsure,No,Unsure,Unsure,Unsure,3,physical,Yes,Maybe,5,5,No,No,No,No,No,0,0,Yes,6,Maybe,Maybe,No,3,31,female,30_to_40,USA_CA,USA_CA
+500-1000,Yes,No,Unsure,Unsure,Unsure,4,same,Yes,Maybe,6,6,Maybe,No,No,No,No,0,0,No,8,No,No,No,3,40,female,30_to_40,USA_OR,USA_OR
+More than 1000,Yes,No,No,Unsure,Unsure,4,physical,Maybe,Maybe,7,4,Maybe,No,No,Yes,Unsure,2,2,Maybe,6,Maybe,No,No,2,42,female,40_to_50,USA_OH,USA_OH
+26-100,Yes,No,Unsure,Unsure,Unsure,2,physical,Maybe,Maybe,7,6,Maybe,No,Maybe,Yes,Yes,0,3,No,9,Maybe,Maybe,No,3,38,male,30_to_40,USA_IL,USA_IL
+100-500,Unsure,Yes,No,No,Yes,5,same,Yes,Yes,7,8,No,No,No,No,No,0,0,Yes,9,Yes,Maybe,No,3,39,male,30_to_40,USA_IL,USA_IL
+6-25,No,No,No,Unsure,Unsure,2,physical,Maybe,Maybe,10,8,Yes,Yes,Yes,Yes,Yes,4,4,No,3,Yes,Maybe,No,1,21,male,20_to_30,USA_IL,USA_IL
+100-500,Yes,Yes,Yes,Yes,Unsure,4,same,Maybe,Yes,8,8,Maybe,No,Maybe,Yes,Yes,2,3,No,10,No,No,Yes,4,32,female,30_to_40,USA_IL,USA_IL
+6-25,No,Yes,No,No,Unsure,0,physical,Maybe,Yes,2,2,Maybe,No,Yes,Yes,Yes,1,3,No,9,No,No,No,3,32,male,30_to_40,USA_IL,USA_IL
+100-500,Yes,Yes,Yes,Yes,Unsure,5,mental,Yes,Yes,7,6,Yes,Yes,Maybe,Yes,Yes,2,3,No,9,Maybe,Maybe,Yes,2,40,male,30_to_40,USA_IL,USA_IL
+More than 1000,Yes,Yes,No,No,Yes,0,physical,No,Maybe,3,0,Maybe,No,Maybe,Yes,No,3,4,Maybe,7,No,Maybe,No,3,28,male,20_to_30,USA_IL,USA_IL
+500-1000,Yes,Yes,Yes,Yes,Yes,3,same,Yes,Yes,3,6,Yes,Yes,Yes,Yes,Yes,2,4,No,9,Maybe,No,Yes,2,25,female,20_to_30,USA_MA,USA_MA
+More than 1000,Yes,Yes,Yes,Yes,Yes,5,physical,No,No,5,5,No,No,Maybe,No,Yes,0,0,No,5,No,No,No,4,37,male,30_to_40,USA_IL,USA_IL
+100-500,Yes,Yes,Yes,Yes,Yes,5,physical,Yes,Yes,6,8,Yes,Yes,Yes,Yes,Unsure,3,4,No,8,Yes,Yes,No,3,40,nonbinary,30_to_40,USA_IL,USA_IL
+26-100,Unsure,No,No,No,Unsure,3,physical,Maybe,Maybe,7,3,Yes,Yes,Yes,Yes,Yes,3,4,Maybe,5,No,No,No,3,31,female,30_to_40,USA_IL,USA_IL
+100-500,Yes,No,No,No,Unsure,4,physical,No,Maybe,6,5,Yes,Yes,Yes,Yes,Yes,4,4,Maybe,10,Yes,No,Yes,2,26,nonbinary,20_to_30,USA_MI,USA_MI
+26-100,Yes,Yes,No,Unsure,Unsure,2,physical,Yes,No,6,5,Yes,Yes,Yes,Yes,Yes,2,3,No,8,Maybe,No,No,3,27,female,20_to_30,USA_PA,USA_PA
+6-25,Unsure,Yes,No,No,No,3,physical,No,No,5,5,No,No,Yes,Yes,No,2,3,No,5,Yes,No,No,1,46,male,40_to_50,NOR,NOR
+More than 1000,Yes,Yes,Unsure,No,Unsure,0,physical,Maybe,Maybe,6,5,Yes,Yes,Yes,Yes,Yes,2,3,Maybe,10,Yes,No,No,2,22,female,20_to_30,USA_CA,USA_CA
+26-100,No,No,No,No,Unsure,4,same,Maybe,Maybe,5,5,No,No,Yes,Yes,Yes,2,3,Maybe,10,Maybe,Maybe,No,3,37,female,30_to_40,PNG,PNG
+100-500,Yes,Yes,Yes,Yes,Unsure,0,physical,No,Yes,3,3,Yes,Yes,Yes,Yes,Yes,3,4,Yes,10,No,No,Yes,1,27,male,20_to_30,USA_MA,USA_MA
+More than 1000,Yes,No,No,Unsure,Unsure,0,physical,Maybe,Maybe,2,5,Maybe,No,Maybe,No,Yes,0,4,No,10,No,No,No,3,28,female,20_to_30,USA_PA,USA_PA
+100-500,Yes,Yes,Yes,No,Yes,4,physical,No,Maybe,7,4,Yes,Yes,Yes,Yes,Yes,2,4,Yes,2,No,No,No,2,32,female,30_to_40,USA_CA,USA_CA
+100-500,Yes,No,No,Unsure,Unsure,4,same,Maybe,Yes,7,5,No,No,No,No,Yes,0,0,Maybe,7,Yes,Yes,No,2,33,male,30_to_40,USA_PA,USA_PA
+More than 1000,Yes,Yes,Yes,Yes,Yes,4,physical,Maybe,Maybe,9,7,Yes,Yes,Yes,Yes,Yes,3,4,Maybe,7,Yes,Maybe,No,4,27,female,20_to_30,USA_PA,USA_PA
+More than 1000,Yes,Yes,Unsure,Unsure,Yes,4,physical,Yes,Maybe,8,7,Yes,Yes,Yes,Yes,Yes,2,4,Maybe,10,Maybe,Maybe,No,2,38,female,30_to_40,USA_NC,USA_NC
+6-25,Yes,No,No,No,Yes,5,physical,Yes,Yes,6,6,Yes,Yes,Yes,Yes,No,2,3,No,4,Maybe,No,No,3,28,female,20_to_30,USA_TX,USA_TX
+More than 1000,Yes,No,Yes,Yes,Unsure,3,physical,Maybe,Maybe,2,1,Maybe,No,Maybe,No,Unsure,0,0,Yes,3,No,No,No,1,32,female,30_to_40,USA_MI,USA_MI
+26-100,No,No,No,No,Yes,5,physical,Yes,No,8,3,Maybe,No,No,No,No,2,3,Maybe,5,Yes,No,No,3,30,female,20_to_30,USA_MN,USA_MN
+100-500,Yes,Yes,No,No,Unsure,0,physical,No,Maybe,8,4,Yes,Yes,Yes,Yes,No,1,3,No,10,Maybe,No,No,2,26,female,20_to_30,USA_MA,USA_MA
+More than 1000,Unsure,No,Yes,Yes,Unsure,0,physical,No,No,7,7,Maybe,No,Maybe,Yes,Yes,0,0,Yes,7,No,No,No,3,41,female,40_to_50,USA_MI,USA_MI
+100-500,Unsure,No,No,No,Unsure,4,same,Maybe,Maybe,8,5,Maybe,No,Maybe,No,No,3,3,No,5,Maybe,No,No,2,39,female,30_to_40,USA_TX,USA_TX
+100-500,Yes,No,No,Unsure,Unsure,0,same,Maybe,Yes,5,3,Maybe,No,Maybe,No,Unsure,0,0,No,8,No,No,No,3,37,nonbinary,30_to_40,USA_NJ,USA_NJ
+More than 1000,No,No,Unsure,Yes,Yes,0,physical,No,No,8,5,Maybe,No,No,No,Unsure,0,4,Maybe,8,No,No,No,3,21,female,20_to_30,USA_TX,USA_TX
+100-500,Yes,Yes,No,No,Unsure,4,physical,No,Yes,6,3,No,No,Maybe,No,Unsure,0,4,No,9,No,No,No,1,35,female,30_to_40,USA_WA,USA_WA
+More than 1000,Yes,Yes,Yes,Yes,Unsure,4,same,No,Maybe,3,2,Yes,Yes,Yes,Yes,Unsure,4,4,No,8,Maybe,No,No,3,33,female,30_to_40,CHE,CHE
+26-100,Yes,No,No,Unsure,Yes,4,physical,No,No,6,6,Maybe,No,No,No,Unsure,0,4,Maybe,6,Maybe,No,No,2,38,male,30_to_40,NLD,NLD
+6-25,No,No,No,No,Unsure,3,same,Maybe,Maybe,5,5,Yes,Yes,Yes,Yes,Unsure,2,3,No,9,No,No,No,3,29,female,20_to_30,USA_CO,USA_CO
+500-1000,Yes,Yes,Yes,Yes,Yes,4,physical,Maybe,Yes,7,7,Yes,Yes,No,Yes,Unsure,3,4,No,6,No,No,No,4,25,female,20_to_30,USA_MO,USA_MO
+100-500,Unsure,No,No,Unsure,Unsure,4,physical,No,Maybe,6,4,Maybe,No,Maybe,Yes,Yes,3,3,Maybe,6,No,No,No,2,41,female,40_to_50,USA_CA,USA_CA
+26-100,Yes,Yes,No,No,Unsure,5,same,Yes,Yes,10,10,Yes,Yes,Yes,Yes,Yes,3,4,Maybe,10,Maybe,No,Yes,3,37,female,30_to_40,USA_CA,USA_CA
+6-25,Unsure,No,No,No,Unsure,4,physical,Maybe,Maybe,5,4,Yes,Yes,Maybe,Yes,Yes,3,4,Maybe,7,Maybe,No,No,2,29,male,20_to_30,USA_GA,USA_GA
+100-500,Yes,No,Unsure,Unsure,Unsure,5,same,Yes,Yes,7,7,No,No,No,No,No,0,0,No,7,No,No,No,3,45,female,40_to_50,USA_MA,USA_CA
+100-500,Yes,No,No,Yes,Yes,4,physical,Yes,Yes,8,7,Maybe,No,Maybe,Yes,No,2,3,No,7,Maybe,Maybe,No,2,45,female,40_to_50,USA_CA,USA_CA
+More than 1000,Yes,Yes,Yes,Yes,Yes,4,same,Yes,Yes,6,8,Yes,Yes,Yes,Yes,Yes,2,4,No,10,Yes,Maybe,Yes,3,30,nonbinary,20_to_30,USA_MA,USA_MA
+6-25,Unsure,No,No,No,Unsure,5,same,Yes,Yes,10,10,No,No,No,No,No,0,0,No,10,Yes,Yes,No,3,27,male,20_to_30,USA_MI,USA_MI
+6-25,Unsure,No,No,Unsure,Unsure,1,physical,Yes,Maybe,4,3,No,No,No,No,No,0,0,Maybe,0,Maybe,No,No,2,36,male,30_to_40,USA_NY,USA_NY
+500-1000,Yes,Yes,Yes,Yes,Yes,1,physical,No,Maybe,5,7,Yes,Yes,Yes,Yes,Yes,2,3,Maybe,10,Yes,Maybe,No,3,44,female,40_to_50,USA_MN,USA_MN
+More than 1000,Yes,Yes,Yes,Yes,Unsure,0,mental,Maybe,Yes,7,8,Yes,Yes,Yes,Yes,Unsure,2,3,No,9,Maybe,Maybe,No,4,35,female,30_to_40,USA_MI,USA_MI
+6-25,Unsure,No,No,No,Unsure,0,same,Maybe,No,5,5,Maybe,No,Maybe,No,Yes,0,0,No,8,No,No,Yes,1,42,nonbinary,40_to_50,USA_NJ,USA_NJ
+More than 1000,Yes,Yes,Yes,Yes,Unsure,2,physical,No,No,10,8,Yes,Yes,Yes,Yes,Yes,3,4,Maybe,8,Maybe,No,No,4,26,male,20_to_30,USA_CA,USA_CA
+100-500,Yes,Yes,No,No,Unsure,5,same,Yes,Yes,8,9,Maybe,No,Yes,Yes,Yes,1,2,No,7,No,No,No,4,25,nonbinary,20_to_30,USA_CA,USA_CA
+More than 1000,Yes,Yes,No,No,Unsure,0,same,Maybe,Maybe,7,4,Yes,Yes,Yes,Yes,Yes,2,3,Maybe,10,Maybe,No,No,2,36,female,30_to_40,USA_WA,USA_WA
+500-1000,Yes,Yes,Yes,Yes,Unsure,3,physical,Yes,No,7,6,Yes,Yes,Yes,Yes,Yes,2,4,No,5,No,No,No,2,32,female,30_to_40,USA_PA,USA_PA
+More than 1000,Yes,Yes,Yes,Yes,Unsure,2,physical,Maybe,Maybe,2,4,Yes,Yes,Yes,Yes,Yes,3,4,Yes,8,Maybe,No,No,1,29,female,20_to_30,USA_CO,USA_CO
+More than 1000,Unsure,No,Yes,Yes,Yes,5,physical,Maybe,Maybe,5,5,No,No,No,No,Unsure,0,0,Yes,1,No,No,No,2,29,female,20_to_30,USA_CA,USA_CA
+26-100,Yes,No,Unsure,Unsure,Yes,5,same,Yes,Maybe,9,9,No,No,Maybe,No,No,0,0,No,7,Yes,Maybe,No,2,43,male,40_to_50,USA_MI,USA_MI
+500-1000,No,No,Yes,Unsure,Unsure,4,same,Yes,Yes,4,5,No,No,No,No,No,0,0,Maybe,7,Maybe,Maybe,No,4,26,male,20_to_30,GBR,GBR
+26-100,Yes,Yes,No,No,Unsure,2,physical,Maybe,Maybe,7,5,Yes,Yes,Yes,Yes,Yes,4,4,No,9,No,No,No,3,46,male,40_to_50,USA_MN,USA_MN
+500-1000,Yes,Yes,Yes,Yes,Yes,4,same,Yes,Yes,9,7,Yes,Yes,Yes,Yes,Yes,2,3,No,8,No,No,Yes,3,30,female,20_to_30,USA_MI,USA_MI
+26-100,Yes,No,No,Unsure,Unsure,0,physical,Maybe,Maybe,6,3,Yes,Yes,Yes,Yes,Unsure,4,4,Maybe,7,Maybe,Maybe,No,2,36,male,30_to_40,USA_MI,USA_MI
+More than 1000,Yes,Yes,No,Yes,Unsure,0,same,Maybe,Maybe,5,0,Yes,Yes,Yes,Yes,Unsure,2,4,Maybe,10,Maybe,Maybe,No,1,31,female,30_to_40,USA_MI,USA_MI
+6-25,No,No,No,No,Unsure,4,physical,No,Maybe,4,1,Maybe,No,No,Yes,Unsure,0,3,Maybe,6,No,No,No,1,42,male,40_to_50,FRA,CHE
+More than 1000,Unsure,No,No,Unsure,Unsure,0,same,Yes,Yes,6,2,Maybe,No,Maybe,No,Unsure,0,3,No,9,Maybe,No,Yes,3,33,female,30_to_40,USA_CA,USA_CA
+More than 1000,Yes,Yes,Unsure,Yes,Yes,1,physical,No,Maybe,8,8,Maybe,No,Maybe,Yes,Unsure,3,4,Maybe,2,No,No,No,2,26,male,20_to_30,USA_IL,USA_IL
+100-500,No,No,No,No,Unsure,0,same,Maybe,Yes,0,0,Maybe,No,Maybe,Yes,No,3,4,No,10,Maybe,Maybe,No,2,37,male,30_to_40,USA_GA,USA_GA
+100-500,Yes,Yes,Yes,Yes,Yes,4,physical,Yes,Yes,7,7,Yes,Yes,Yes,Yes,Yes,4,4,No,8,Maybe,Maybe,Yes,2,36,nonbinary,30_to_40,USA_IL,USA_IL
+26-100,No,No,No,No,Yes,5,same,Yes,Yes,10,10,No,No,No,No,No,0,0,Maybe,10,Yes,Yes,No,2,35,male,30_to_40,ETH,ETH
+100-500,Unsure,No,No,Unsure,Unsure,4,same,Yes,Yes,5,5,No,No,No,No,No,0,0,No,8,Maybe,Maybe,No,4,45,male,40_to_50,GBR,GBR
+6-25,No,No,No,No,Unsure,5,same,Yes,Yes,10,10,Maybe,No,No,No,No,0,0,Maybe,10,Yes,No,No,5,23,male,20_to_30,USA,USA
+6-25,Yes,No,No,No,Unsure,4,same,Yes,Maybe,8,6,No,No,No,No,No,0,0,No,6,Maybe,Maybe,No,4,26,male,20_to_30,USA_IL,USA_IL
+6-25,No,No,No,No,Unsure,4,physical,Maybe,No,5,4,No,No,No,No,Unsure,0,0,No,7,Maybe,Maybe,No,3,26,male,20_to_30,USA,USA
+6-25,Unsure,No,No,No,Yes,5,physical,Yes,Yes,8,6,Maybe,No,Maybe,No,Yes,0,0,No,8,Maybe,No,No,2,34,male,30_to_40,USA_MA,USA_MA
+6-25,No,No,Yes,Unsure,Yes,4,physical,Maybe,Maybe,7,7,No,No,No,No,No,0,0,No,4,Maybe,No,No,4,22,male,20_to_30,MKD,MKD
+6-25,Yes,No,No,No,No,1,physical,No,No,6,1,Maybe,No,Maybe,No,Unsure,0,0,Maybe,3,Maybe,No,No,4,42,female,40_to_50,USA_ND,USA_ND
+500-1000,No,No,No,No,Yes,0,same,No,Maybe,4,0,Maybe,No,Yes,Yes,Unsure,1,3,Maybe,10,No,No,No,1,40,male,30_to_40,USA,USA
+500-1000,Unsure,No,No,Unsure,Unsure,0,physical,No,Maybe,1,1,Maybe,No,Maybe,No,Yes,0,0,Maybe,2,No,No,No,1,42,male,40_to_50,USA_OR,USA_OR
+26-100,Yes,Yes,No,No,Unsure,2,same,Maybe,Maybe,8,5,Maybe,No,Yes,Yes,Yes,0,3,No,8,No,No,No,2,35,male,30_to_40,USA_OH,USA_OH
+6-25,No,No,No,No,Yes,5,same,Yes,Yes,8,8,Yes,Yes,Yes,Yes,Yes,2,4,Maybe,8,Maybe,Maybe,No,3,36,male,30_to_40,USA_OR,USA_OR
+26-100,Yes,Yes,No,Unsure,Yes,4,same,Maybe,Maybe,7,7,No,No,Maybe,No,No,0,0,No,7,Maybe,Maybe,No,3,37,male,30_to_40,USA_IL,USA_IL
+100-500,Yes,Yes,Yes,Yes,Yes,4,same,Yes,Yes,9,9,Yes,Yes,Maybe,Yes,Yes,3,4,No,10,Maybe,Maybe,Yes,4,31,female,30_to_40,USA_IL,USA_IL
+500-1000,Yes,Yes,No,Unsure,Unsure,4,same,Yes,Yes,5,5,Maybe,No,Yes,Yes,Yes,3,4,No,10,Maybe,Maybe,No,3,27,male,20_to_30,USA_CA,USA_CA
+6-25,Unsure,No,Unsure,Unsure,Unsure,5,physical,Maybe,Maybe,3,3,No,No,No,No,No,0,0,No,5,Maybe,Maybe,No,2,38,male,30_to_40,GBR,GBR
+6-25,No,No,Yes,No,Yes,3,physical,Yes,Yes,5,5,Yes,Yes,Yes,Yes,Yes,2,4,No,10,Maybe,Maybe,Yes,3,32,male,30_to_40,USA_KY,USA_KY
+More than 1000,No,No,No,Unsure,Unsure,2,physical,No,No,6,0,Yes,Yes,Yes,Yes,Yes,2,4,No,0,Yes,No,No,2,51,male,50_to_60,USA_FL,USA_FL
+26-100,No,No,No,Unsure,Unsure,5,same,Yes,Yes,5,5,Yes,Yes,Yes,Yes,Unsure,3,4,No,10,Yes,Yes,No,2,26,female,20_to_30,ISL,ISL
+500-1000,No,No,No,No,Unsure,0,physical,Maybe,No,8,3,Maybe,No,No,No,Unsure,0,3,No,6,Maybe,No,No,2,19,female,10_to_20,USA_TN,USA_TN
+More than 1000,Yes,Yes,Yes,Unsure,Unsure,0,physical,No,No,6,4,Yes,Yes,Yes,No,Unsure,0,3,Maybe,8,Maybe,No,No,2,44,male,40_to_50,USA_NH,USA_MA
+500-1000,Yes,Yes,No,Unsure,Unsure,0,physical,Maybe,No,6,6,Yes,Yes,Yes,Yes,Unsure,4,4,Yes,8,No,No,No,2,42,male,40_to_50,USA_MA,USA_MA
+26-100,Yes,Yes,No,No,Unsure,5,same,Yes,Yes,7,7,Yes,Yes,Yes,Yes,Unsure,2,4,No,10,No,No,Yes,4,26,male,20_to_30,USA_PA,USA_PA
+500-1000,Yes,Yes,No,No,Yes,4,physical,No,Maybe,9,2,Yes,Yes,Maybe,Yes,Unsure,3,4,No,7,Yes,Maybe,No,3,38,male,30_to_40,USA_IL,USA_IL
+26-100,Yes,Yes,Yes,Yes,Yes,5,physical,Yes,Yes,8,6,Yes,Yes,Yes,Yes,Yes,2,4,No,10,No,No,No,2,26,female,20_to_30,USA_IL,USA_IL
+100-500,Yes,Yes,No,Yes,Yes,5,physical,Yes,Yes,9,9,Maybe,No,Maybe,Yes,Unsure,2,4,Yes,8,No,No,No,2,32,male,30_to_40,USA_IL,USA_IL
+100-500,Yes,Yes,Yes,Unsure,Unsure,4,same,Yes,Yes,7,8,Yes,Yes,Yes,Yes,Yes,3,4,Maybe,8,No,No,Yes,4,39,male,30_to_40,USA_IL,USA_IL
+6-25,Yes,Yes,No,No,Yes,0,same,Yes,Maybe,10,10,Yes,Yes,Yes,Yes,Yes,1,3,Yes,8,Maybe,No,No,4,44,female,40_to_50,USA_WI,USA_WI
+More than 1000,Yes,Yes,Unsure,Unsure,Unsure,5,physical,Yes,Maybe,5,2,Yes,Yes,Yes,Yes,Yes,3,4,Maybe,8,Maybe,No,No,3,33,female,30_to_40,USA_TX,USA_TX
+100-500,No,No,No,No,No,0,same,Yes,Yes,5,0,Yes,Yes,No,Yes,Unsure,2,2,No,10,Maybe,Maybe,No,3,38,male,30_to_40,CHN,CHN
+6-25,Unsure,No,Yes,No,Unsure,4,same,Yes,Yes,6,6,Yes,Yes,Maybe,Yes,Unsure,3,3,No,8,Maybe,No,No,4,42,male,40_to_50,AUS,AUS
+100-500,No,No,No,No,Unsure,3,physical,No,No,4,5,Maybe,No,Yes,Yes,Yes,4,4,No,2,No,No,No,2,28,male,20_to_30,DEU,DEU
+26-100,No,No,Yes,No,Unsure,5,mental,No,Yes,7,5,Yes,Yes,Maybe,Yes,No,3,4,No,10,Maybe,Maybe,Yes,2,31,male,30_to_40,FRA,FRA
+26-100,Unsure,No,No,Unsure,Yes,5,physical,Yes,Maybe,8,7,No,No,No,No,No,0,0,No,10,Yes,Yes,No,3,35,male,30_to_40,FRA,FRA
+100-500,Unsure,No,No,No,Unsure,0,physical,Maybe,No,0,0,No,No,No,No,No,0,0,No,5,No,No,No,3,30,male,20_to_30,USA_TN,USA_TN
+26-100,Yes,Yes,No,No,Unsure,4,physical,Yes,Maybe,8,8,Yes,Yes,Yes,Yes,No,2,4,No,6,Yes,Yes,Yes,4,30,male,20_to_30,USA_ND,USA_ND
+26-100,Unsure,No,No,No,Unsure,5,same,Maybe,Yes,5,5,No,No,No,No,Yes,0,0,Maybe,5,No,No,No,2,40,male,30_to_40,USA_NJ,USA_NJ
+26-100,Unsure,No,No,Unsure,Unsure,0,physical,Maybe,Maybe,3,3,No,No,No,No,No,0,0,Maybe,10,Yes,Maybe,No,1,39,male,30_to_40,USA_IL,USA_IL
+26-100,Unsure,No,No,No,Unsure,0,physical,Maybe,Maybe,0,2,No,No,No,No,Yes,0,0,Maybe,3,No,No,No,2,24,male,20_to_30,USA_UT,USA_UT
+100-500,Yes,Yes,No,Unsure,Yes,2,physical,Maybe,Maybe,7,4,Maybe,No,Yes,Yes,Unsure,3,4,Yes,9,No,No,No,3,42,male,40_to_50,USA_IL,USA_IL
+26-100,Yes,No,No,No,Unsure,1,physical,Maybe,Maybe,8,4,Maybe,No,Maybe,Yes,Yes,1,3,No,9,No,No,No,2,35,male,30_to_40,USA_OH,USA_OH
+More than 1000,Yes,Yes,Unsure,Unsure,Yes,4,physical,Yes,Maybe,8,8,Yes,Yes,Yes,Yes,Unsure,2,4,No,9,No,No,No,3,34,male,30_to_40,USA_PA,USA_PA
+100-500,Unsure,No,No,Unsure,Unsure,0,physical,No,No,7,4,Yes,Yes,Maybe,Yes,Yes,3,4,Yes,10,Yes,No,No,1,33,female,30_to_40,USA_TX,USA_TX
+26-100,Yes,Yes,No,Unsure,Yes,4,same,Yes,Maybe,6,7,No,No,Maybe,No,No,0,0,No,7,Maybe,Maybe,No,3,37,male,30_to_40,USA_IL,USA_IL
+100-500,Yes,Yes,No,No,Yes,4,same,Yes,Yes,5,5,Yes,Yes,Yes,Yes,Yes,3,4,Maybe,8,No,No,No,4,36,male,30_to_40,USA_FL,USA_FL
+26-100,Yes,No,No,No,Yes,3,physical,Yes,Yes,6,5,Maybe,No,Yes,Yes,Unsure,2,4,No,9,No,No,Yes,2,47,female,40_to_50,USA_NC,USA_NC
+26-100,Unsure,No,No,No,Unsure,0,physical,Maybe,Maybe,7,3,No,No,No,No,No,0,0,Maybe,6,No,No,No,2,42,male,40_to_50,USA_FL,USA_FL
+More than 1000,Yes,Yes,Yes,Yes,Unsure,1,physical,Maybe,Maybe,3,3,Yes,Yes,Yes,Yes,Yes,3,4,No,8,Yes,No,No,3,29,nonbinary,20_to_30,USA_WI,USA_WI
+6-25,No,No,No,No,No,4,same,Maybe,Maybe,2,2,No,No,No,No,Unsure,3,3,Maybe,8,Maybe,Maybe,No,1,30,male,20_to_30,TUR,TUR
+6-25,No,No,No,No,Unsure,0,physical,No,Maybe,6,4,Maybe,No,Maybe,No,Yes,4,4,Maybe,3,Maybe,Maybe,No,2,36,male,30_to_40,POL,POL
+More than 1000,Yes,Yes,Yes,Yes,Yes,5,same,Yes,Yes,8,8,Yes,Yes,Yes,Yes,Unsure,3,4,No,5,Maybe,No,Yes,4,24,female,20_to_30,USA_IN,USA_IN
+More than 1000,Yes,Yes,Yes,Yes,Yes,0,physical,No,No,9,7,Maybe,No,Maybe,No,Yes,0,3,No,3,No,No,No,3,41,male,40_to_50,USA_MN,USA_MN
+100-500,Yes,Yes,Yes,Yes,Unsure,4,physical,Yes,Maybe,7,8,Yes,Yes,Maybe,Yes,Yes,2,3,No,7,No,No,No,2,48,female,40_to_50,USA_NY,USA_NY
+More than 1000,Yes,Yes,Yes,Yes,Unsure,4,physical,Maybe,Maybe,8,6,Yes,Yes,Yes,Yes,Yes,2,4,Maybe,9,Maybe,Maybe,No,2,31,male,30_to_40,USA_WI,USA_WI
+100-500,Yes,Yes,Yes,Yes,Unsure,4,physical,No,Maybe,6,7,Maybe,No,Yes,Yes,Yes,3,4,Yes,6,Maybe,No,No,3,65,male,60_to_70,CAN,CAN
+More than 1000,No,No,No,Unsure,Unsure,1,physical,No,No,3,0,Maybe,No,Maybe,Yes,Unsure,0,0,Maybe,7,Maybe,No,No,2,34,nonbinary,30_to_40,USA_CA,USA_CA
+100-500,Unsure,No,Unsure,Unsure,Unsure,1,same,Yes,Maybe,5,3,No,No,No,No,Unsure,0,0,Maybe,5,No,No,No,3,55,female,50_to_60,USA_NH,USA_NH
+More than 1000,Yes,No,No,No,Unsure,2,physical,No,No,1,1,Yes,Yes,Yes,Yes,No,2,4,No,3,No,No,No,3,41,female,40_to_50,USA_WA,USA_WA
+More than 1000,Yes,No,No,Unsure,Unsure,3,physical,No,No,7,4,Yes,Yes,Yes,Yes,Unsure,3,4,Maybe,8,No,No,No,3,24,female,20_to_30,USA_AZ,USA_AZ
+100-500,No,No,No,Unsure,Unsure,1,physical,No,Maybe,2,2,Maybe,No,No,No,Yes,0,0,No,4,No,No,No,1,27,female,20_to_30,USA_MI,USA_DC
+26-100,Yes,Yes,Yes,Unsure,Unsure,3,physical,Maybe,Maybe,5,5,Maybe,No,No,No,No,0,0,No,6,Yes,Maybe,No,3,30,male,20_to_30,CAN,CAN
+100-500,Yes,Yes,Yes,Yes,Yes,5,same,Yes,Yes,8,7,Yes,Yes,Yes,Yes,Yes,2,3,No,10,Maybe,Yes,Yes,4,37,male,30_to_40,USA_MN,USA_MN
+6-25,No,No,No,No,Unsure,1,physical,No,No,5,3,Yes,Yes,Yes,Yes,No,2,3,Maybe,4,No,No,No,1,61,male,60_to_70,USA_MN,USA_MN
+More than 1000,Unsure,No,No,Unsure,Unsure,0,physical,No,No,8,3,Yes,Yes,Yes,Yes,Yes,4,4,No,7,Yes,No,No,2,29,male,20_to_30,USA_MA,USA_MA
+100-500,Yes,Yes,Unsure,No,Unsure,0,same,Maybe,Yes,7,6,Yes,Yes,Yes,Yes,Yes,2,4,Maybe,10,Maybe,Maybe,Yes,2,41,male,40_to_50,USA_WA,USA_WA
+26-100,No,No,No,No,Unsure,0,physical,No,No,7,2,No,No,Maybe,No,No,2,2,Maybe,7,No,No,No,3,39,male,30_to_40,TTO,TTO
+500-1000,Unsure,No,No,No,Yes,2,physical,Maybe,No,10,3,Yes,Yes,Yes,Yes,Yes,4,4,Yes,9,Maybe,No,No,2,30,male,20_to_30,USA_MN,USA_MN
+More than 1000,Unsure,No,No,Unsure,Unsure,1,physical,No,No,2,1,No,No,No,No,Yes,0,0,Maybe,1,No,No,No,1,46,male,40_to_50,ITA,ITA
+6-25,Unsure,No,No,No,Unsure,4,physical,No,No,8,8,Maybe,No,No,No,Yes,0,0,Maybe,6,No,No,No,2,42,male,40_to_50,TTO,TTO
+More than 1000,Yes,Yes,Yes,Yes,Unsure,3,physical,Yes,Maybe,8,7,Yes,Yes,Yes,Yes,Yes,2,4,Maybe,6,No,No,Yes,3,29,female,20_to_30,USA_DC,USA_DC
+More than 1000,Yes,Yes,Yes,Yes,No,5,same,Maybe,Yes,7,6,Yes,Yes,Yes,Yes,Yes,2,3,Maybe,10,No,No,Yes,3,34,female,30_to_40,AUS,AUS
+100-500,Yes,Yes,Yes,Yes,Yes,0,physical,Maybe,Maybe,7,7,Maybe,No,Maybe,Yes,Unsure,2,3,No,7,No,No,No,3,36,male,30_to_40,USA_WI,USA_NY
+26-100,Unsure,No,No,No,Unsure,5,same,Maybe,Maybe,4,4,No,No,No,No,No,0,0,Maybe,3,Maybe,Maybe,No,3,34,male,30_to_40,GBR,GBR
+26-100,Yes,Yes,No,Unsure,Yes,3,same,Yes,No,6,7,Maybe,No,Yes,Yes,No,0,2,No,2,Yes,Maybe,No,3,35,male,30_to_40,USA_MN,USA_MN
+100-500,Unsure,Yes,No,No,No,1,physical,No,Maybe,5,0,Yes,Yes,Yes,Yes,Yes,4,4,Maybe,4,Yes,No,No,1,34,male,30_to_40,USA_KS,USA_CA
+26-100,Yes,Yes,Yes,No,Unsure,4,same,Maybe,Yes,10,8,Yes,Yes,Yes,Yes,Yes,3,4,No,7,Maybe,Maybe,Yes,2,24,nonbinary,20_to_30,USA_NJ,USA_NJ
+26-100,Yes,Yes,Yes,Yes,Yes,2,physical,Maybe,Maybe,0,2,No,No,No,No,No,0,0,No,5,No,No,No,1,37,male,30_to_40,USA_IL,USA_IL
+26-100,No,No,No,No,Unsure,1,same,Yes,Yes,9,0,Yes,Yes,Yes,Yes,Yes,3,4,Yes,0,No,Maybe,No,2,24,female,20_to_30,USA_MN,USA_MN
+1-5,No,No,No,No,Unsure,4,same,No,No,0,0,Maybe,No,Yes,Yes,Unsure,1,3,Maybe,0,Maybe,No,No,1,46,male,40_to_50,USA_PA,USA_PA
+More than 1000,Unsure,No,No,Unsure,Unsure,4,same,Yes,Maybe,3,2,Maybe,No,Maybe,Yes,Unsure,3,3,No,8,No,No,No,2,31,male,30_to_40,USA_WI,USA_WI
+100-500,Yes,Yes,Yes,Yes,Yes,5,same,Yes,Yes,5,5,No,No,No,No,Yes,0,0,Maybe,10,Yes,No,No,1,40,male,30_to_40,USA_WI,USA_WI
+6-25,Yes,No,No,No,Yes,4,same,Yes,Yes,6,5,Yes,Yes,Yes,Yes,Unsure,3,3,No,10,Yes,Maybe,No,3,28,male,20_to_30,USA_TN,USA_TN
+6-25,Unsure,No,No,No,Unsure,5,physical,Maybe,Maybe,2,2,No,No,Maybe,Yes,Yes,0,0,Maybe,5,Maybe,No,No,1,28,male,20_to_30,USA_TN,USA_TN
+100-500,Yes,Yes,No,Yes,Yes,1,physical,No,No,6,5,Yes,Yes,Yes,Yes,Yes,3,4,No,8,No,No,No,3,39,male,30_to_40,FIN,FIN
+100-500,Yes,Yes,Unsure,Unsure,Unsure,0,physical,Maybe,Maybe,8,5,Yes,Yes,Maybe,Yes,Unsure,0,4,Maybe,8,Yes,No,No,3,31,male,30_to_40,USA_NJ,USA_NJ
+6-25,Yes,Yes,Unsure,Yes,Unsure,4,same,Yes,Yes,0,0,Maybe,No,Maybe,No,Unsure,3,3,No,7,Yes,Yes,No,2,27,male,20_to_30,USA_TN,USA_TN
+More than 1000,Yes,Yes,No,No,Yes,0,same,No,Yes,10,5,Yes,Yes,Yes,Yes,Unsure,2,4,No,10,No,No,No,2,35,male,30_to_40,USA_TN,USA_TN
