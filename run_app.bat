@@ -1,9 +1,9 @@
 CALL .env/Scripts/activate.bat
 
-cd "webapp"
+cd "app"
 @echo off
 SETLOCAL
-set FLASK_APP=app
+set FLASK_APP=main
 set FLASK_ENV=development
 CALL flask run -p 5000
 
