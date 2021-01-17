@@ -24,3 +24,5 @@ upgrade_pip.bat | upgrade current pip version to latest available
 
 * **Step 0a.** Create virtual environment by running: `virtualenv .env` 
 * **Step 0b.** Double-click the `pip_install_requirements.bat` to install all required python packages stated in the `requirements.txt` file into the virtual environment created
+
+https://render.githubusercontent.com/view/ipynb?color_mode=light&commit=def1c10bd34ecd197f231e368ee6cbaecb49e6b5&enc_url=68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f696e637562617465642d6765656b2d63632f6d656e74616c2d6865616c7468636172652d707265646963746f72732f646566316331306264333465636431393766323331653336386565366362616563623439653662352f507265646963742532304c696b656c69686f6f642532306f662532305365656b696e672532304d656e74616c2532304865616c74686361726525323054726561746d656e742e6970796e62&nwo=incubated-geek-cc%2Fmental-healthcare-predictors&path=Predict+Likelihood+of+Seeking+Mental+Healthcare+Treatment.ipynb&repository_id=330088362&repository_type=Repository#step_1
